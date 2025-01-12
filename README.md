@@ -1,6 +1,8 @@
 # political-crime-mexico
 Predicting types of political crime taking place in Mexico.
 
+**Authors:** Mirza Abubacker, Arturo Garduño, Felix Veaux, Ayda Elzohbi, Gautam Thiruppathy
+
 **Language**: Python
 
 **Libraries**: sklearn (MLP Classifier, Lasso, RandomForestClassifier, GridSearchCV, KFold, Metrics), seaborn, numpy
